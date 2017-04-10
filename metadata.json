@@ -1,0 +1,15 @@
+{
+  "name": "zivtech_apt",
+  "version": "0.0.0",
+  "author": "Zivtech",
+  "summary": "A simple module used to add the zivtech apt repository",
+  "license": "MIT",
+  "source": "https://github.com/zivtech/puppet-zivtech_apt",
+  "project_page": "https://github.com/zivtech/puppet-zivtech_apt",
+  "issues_url": "https://github.com/zivtech/puppet-zivtech_apt/issues",
+  "dependencies": [
+    {"name":"puppetlabs0apt","version_requirement":">= 1.8.0 < 3.0.0"},
+  ],
+  "data_provider": null,
+  "description": "A simple module used to add the zivtech apt repository"
+}
