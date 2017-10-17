@@ -1,6 +1,6 @@
 {
   "name": "zivtech-zivtech_apt",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Zivtech",
   "summary": "A simple module used to add the zivtech apt repository",
   "license": "MIT",
