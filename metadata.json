@@ -8,7 +8,7 @@
   "project_page": "https://github.com/zivtech/puppet-zivtech_apt",
   "issues_url": "https://github.com/zivtech/puppet-zivtech_apt/issues",
   "dependencies": [
-    {"name":"puppetlabs-apt","version_requirement":">= 1.8.0 < 5.0.0"}
+    {"name":"puppetlabs-apt","version_requirement":">= 1.8.0"}
   ],
   "data_provider": null,
   "description": "A simple module used to add the zivtech apt repository"
